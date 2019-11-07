@@ -9,7 +9,4 @@ out
 gen
 .gitignore
 febs_shiro_jwt.iml
-target/classes/images/
-target/classes/templates/
-target/generated-sources/
-target/maven-status/
+target
