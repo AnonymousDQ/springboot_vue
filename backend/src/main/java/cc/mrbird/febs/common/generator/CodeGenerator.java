@@ -53,27 +53,27 @@ public class CodeGenerator {
     /**
      * xml 文件模板
      */
-    private static final String XML_MAPPER_TEMPLATE_PATH = "generator/templates/mapper.xml";
+    private static final String XML_MAPPER_TEMPLATE_PATH = "/templates/mapper.xml";
     /**
      * mapper 文件模板
      */
-    private static final String MAPPER_TEMPLATE_PATH = "generator/templates/mapper.java";
+    private static final String MAPPER_TEMPLATE_PATH = "/templates/mapper.java";
     /**
      * entity 文件模板
      */
-    private static final String ENTITY_TEMPLATE_PATH = "generator/templates/entity.java";
+    private static final String ENTITY_TEMPLATE_PATH = "/templates/entity.java";
     /**
      * service 文件模板
      */
-    private static final String SERVICE_TEMPLATE_PATH = "generator/templates/service.java";
+    private static final String SERVICE_TEMPLATE_PATH = "/templates/service.java";
     /**
      * serviceImpl 文件模板
      */
-    private static final String SERVICE_IMPL_TEMPLATE_PATH = "generator/templates/serviceImpl.java";
+    private static final String SERVICE_IMPL_TEMPLATE_PATH = "/templates/serviceImpl.java";
     /**
      * controller 文件模板
      */
-    private static final String CONTROLLER_TEMPLATE_PATH = "generator/templates/controller.java";
+    private static final String CONTROLLER_TEMPLATE_PATH = "/templates/controller.java";
 
     public static void main(String[] args) {
         AutoGenerator generator = new AutoGenerator();
@@ -97,7 +97,7 @@ public class CodeGenerator {
 
         // 包配置
         PackageConfig packageConfig = new PackageConfig();
-        packageConfig.setModuleName("gen");
+        packageConfig.setModuleName("generator");
         packageConfig.setParent(BASE_PACKAGE_URL);
         generator.setPackageInfo(packageConfig);
 

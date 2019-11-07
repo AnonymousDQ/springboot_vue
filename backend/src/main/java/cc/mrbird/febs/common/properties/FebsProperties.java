@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * @author victor
- * @description:shiro配置文件里的
+ * @description:application.yml配置文件里的信息
  */
 @Data
 @Configuration

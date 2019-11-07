@@ -60,12 +60,12 @@ mybatis-plus:
     # 关闭 mybatis-plus的 banner
     banner: false
 
+#开启Actuator监控模块：httptrace请求追踪，metrics开启对jvm，tomcat的监控
 management:
   endpoints:
     web:
       exposure:
         include: ['httptrace', 'metrics']
-
 
 febs:
   # 是否异步记录用户操作日志
@@ -81,3 +81,4 @@ febs:
     anonUrl: /login,/logout/**,/regist,/user/check/**
     # token有效期，单位秒
     jwtTimeOut: 3600
+

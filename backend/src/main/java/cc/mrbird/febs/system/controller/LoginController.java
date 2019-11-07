@@ -63,12 +63,15 @@ public class LoginController {
         final String errorMessage = "用户名或密码错误";
         User user = this.userManager.getUser(username);
 
-        if (user == null)
+        if (user == null) {
             throw new FebsException(errorMessage);
-        if (!StringUtils.equals(user.getPassword(), password))
+        }
+        if (!StringUtils.equals(user.getPassword(), password)) {
             throw new FebsException(errorMessage);
-        if (User.STATUS_LOCK.equals(user.getStatus()))
+        }
+        if (User.STATUS_LOCK.equals(user.getStatus())) {
             throw new FebsException("账号已被锁定,请联系管理员！");
+        }
 
         // 更新用户登录时间
         this.userService.updateLoginTime(username);
@@ -119,8 +122,9 @@ public class LoginController {
             ActiveUser activeUser = mapper.readValue(userOnlineString, ActiveUser.class);
             activeUser.setToken(null);
             if (StringUtils.isNotBlank(username)) {
-                if (StringUtils.equalsIgnoreCase(username, activeUser.getUsername()))
+                if (StringUtils.equalsIgnoreCase(username, activeUser.getUsername())) {
                     activeUsers.add(activeUser);
+                }
             } else {
                 activeUsers.add(activeUser);
             }

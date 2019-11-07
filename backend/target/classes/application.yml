@@ -81,3 +81,4 @@ febs:
     anonUrl: /login,/logout/**,/regist,/user/check/**
     # token有效期，单位秒
     jwtTimeOut: 3600
+
