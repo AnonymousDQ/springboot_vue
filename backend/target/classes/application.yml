@@ -52,7 +52,7 @@ spring:
 
 #mybatis plus 设置
 mybatis-plus:
-  type-aliases-package: cc.mrbird.febs.system.domain,cc.mrbird.febs.job.domain
+  type-aliases-package: com.victor.dan.domain,com.victor.dan.domain
   mapper-locations: classpath:mapper/*/*.xml
   configuration:
     jdbc-type-for-null: null
@@ -60,14 +60,14 @@ mybatis-plus:
     # 关闭 mybatis-plus的 banner
     banner: false
 
+#开启Actuator监控模块：httptrace请求追踪，metrics开启对jvm，tomcat的监控
 management:
   endpoints:
     web:
       exposure:
         include: ['httptrace', 'metrics']
 
-
-febs:
+dan:
   # 是否异步记录用户操作日志
   openAopLog: true
   # 单次最大批量入库数量
