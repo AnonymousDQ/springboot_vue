@@ -1,11 +1,7 @@
 # dependencies
 /node_modules
-# testing
-/coverage
 .idea
-# production
-
-# misc
+*.iml
 .DS_Store
 .env.local
 .env.development.local
