@@ -1,292 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../../springboot/src/main/java/com/victor/springboot/mapper/DeptMapper.java" description="*/" line="9" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f033f109-8dd0-4f86-8020-d4e1ad91fe8a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/FebsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/FebsApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/annotation/IsCron.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/annotation/IsCron.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/annotation/Limit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/annotation/Limit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/annotation/Log.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/annotation/Log.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/aspect/LimitAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/aspect/LimitAspect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/aspect/LogAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/aspect/LogAspect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/authentication/JWTFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/authentication/JWTFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/authentication/JWTToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/authentication/JWTToken.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/authentication/JWTUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/authentication/JWTUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/authentication/ShiroConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/authentication/ShiroConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/authentication/ShiroRealm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/authentication/ShiroRealm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/config/AsyncExecutorPoolConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/config/AsyncExecutorPoolConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/config/JacksonRedisSerializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/config/JacksonRedisSerializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/config/MybatisPlusConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/config/MybatisPlusConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/config/P6spySqlFormatConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/config/P6spySqlFormatConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/config/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/config/RedisConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/controller/BaseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/controller/BaseController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/converter/TimeConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/utils/TimeConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/domain/ActiveUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/domain/ActiveUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/domain/FebsConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/domain/FebsConstant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/domain/FebsResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/domain/FebsResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/domain/LimitType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/domain/LimitType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/domain/QueryRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/domain/QueryRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/domain/RedisInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/domain/RedisInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/domain/RegexpConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/domain/RegexpConstant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/domain/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/domain/Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/domain/router/RouterMeta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/domain/router/RouterMeta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/domain/router/VueRouter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/domain/router/VueRouter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/exception/FebsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/exception/FebsException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/exception/LimitAccessException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/exception/LimitAccessException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/exception/RedisConnectException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/exception/RedisConnectException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/exception/TokenTimeoutException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/exception/TokenTimeoutException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/function/CacheSelector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/function/CacheSelector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/function/JedisExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/function/JedisExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/generator/CodeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/MyBatisGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/handler/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/handler/GlobalExceptionHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/properties/FebsProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/properties/FebsProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/properties/ShiroProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/properties/ShiroProperties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/runner/CacheInitRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/runner/CacheInitRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/runner/StartedUpRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/runner/StartedUpRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/service/CacheService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/CacheService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/service/RedisService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/RedisService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/service/impl/CacheServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/CacheServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/service/impl/RedisServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/RedisServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/task/CacheTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/task/CacheTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/utils/AddressUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/utils/AddressUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/utils/DateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/utils/DateUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/utils/EncryptUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/utils/EncryptUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/utils/FebsUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/utils/FebsUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/utils/HttpContextUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/utils/HttpContextUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/utils/HttpUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/utils/HttpUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/utils/IPUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/utils/IPUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/utils/MD5Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/utils/MD5Util.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/utils/SortUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/utils/SortUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/utils/SpringContextUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/utils/SpringContextUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/utils/TreeUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/utils/TreeUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/validator/CronValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/validator/CronValidator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/job/config/ScheduleConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/config/ScheduleConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/job/controller/JobController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/controller/JobController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/job/controller/JobLogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/controller/JobLogController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/job/dao/JobLogMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/dao/JobLogMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/job/dao/JobMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/dao/JobMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/job/domain/Job.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/domain/Job.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/job/domain/JobLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/domain/JobLog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/job/service/JobLogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/JobLogService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/job/service/JobService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/JobService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/job/service/impl/JobLogServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/JobLogServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/job/service/impl/JobServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/JobServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/job/task/TestTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/task/TestTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/job/util/ScheduleJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/utils/ScheduleJob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/job/util/ScheduleRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/utils/ScheduleRunnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/job/util/ScheduleUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/utils/ScheduleUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/controller/DeptController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/controller/DeptController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/controller/DictController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/controller/DictController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/controller/LogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/controller/LogController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/controller/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/controller/MenuController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/controller/MenuController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/controller/RedisController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/controller/RedisController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/controller/RoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/controller/RoleController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/controller/TestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/dao/DeptMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/dao/DeptMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/dao/DictMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/dao/DictMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/dao/LogMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/dao/LogMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/dao/LoginLogMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/dao/LoginLogMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/dao/MenuMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/dao/MenuMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/dao/RoleMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/dao/RoleMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/dao/RoleMenuMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/dao/RoleMenuMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/dao/TestMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/dao/TestMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/dao/UserConfigMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/dao/UserConfigMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/dao/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/dao/UserMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/dao/UserRoleMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/dao/UserRoleMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/domain/Dept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/domain/entity/Dept.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/domain/Dict.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/domain/entity/Dict.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/domain/LoginLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/domain/entity/LoginLog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/domain/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/domain/entity/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/domain/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/domain/entity/Role.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/domain/RoleMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/domain/entity/RoleMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/domain/SysLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/domain/entity/SysLog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/domain/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/domain/entity/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/domain/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/domain/UserConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/domain/entity/UserConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/domain/UserRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/domain/entity/UserRole.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/manager/UserManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/UserManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/service/DeptService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/DeptService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/service/DictService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/DictService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/service/LogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/LogService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/service/LoginLogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/LoginLogService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/service/MenuService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/MenuService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/service/RoleMenuServie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/RoleMenuServie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/service/RoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/RoleService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/service/TestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/TestService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/service/UserConfigService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/UserConfigService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/service/UserRoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/UserRoleService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/service/impl/DeptServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/DeptServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/service/impl/DictServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/DictServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/service/impl/LogServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/LogServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/service/impl/LoginLogServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/LoginLogServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/service/impl/MenuServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/MenuServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/service/impl/RoleMenuServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/RoleMenuServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/service/impl/RoleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/RoleServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/service/impl/TestServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/TestServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/service/impl/UserConfigServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/UserConfigServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/service/impl/UserRoleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/UserRoleServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/system/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/web/controller/ArticleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/controller/ArticleController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/web/controller/MovieController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/controller/MovieController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/web/controller/WeatherController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/controller/WeatherController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/job/JobMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/job/JobMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/system/DeptMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/system/DeptMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/system/LoginLogMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/system/LoginLogMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/system/MenuMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/system/MenuMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/system/RoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/system/RoleMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/system/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/system/UserMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/system/UserRoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mapper/system/UserRoleMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mysql/mysql.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mysql/mysql.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spy.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spy.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/FebsApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/annotation/IsCron.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/annotation/Limit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/annotation/Log.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/aspect/LimitAspect$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/aspect/LimitAspect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/aspect/LogAspect.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/authentication/JWTFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/authentication/JWTToken.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/authentication/JWTUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/authentication/ShiroConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/authentication/ShiroRealm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/config/AsyncExecutorPoolConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/config/JacksonRedisSerializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/config/MybatisPlusConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/config/P6spySqlFormatConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/config/RedisConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/controller/BaseController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/converter/TimeConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/domain/ActiveUser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/domain/FebsConstant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/domain/FebsResponse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/domain/LimitType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/domain/QueryRequest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/domain/RedisInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/domain/RegexpConstant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/domain/Tree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/domain/router/RouterMeta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/domain/router/VueRouter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/exception/FebsException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/exception/LimitAccessException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/exception/RedisConnectException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/exception/TokenTimeoutException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/function/CacheSelector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/function/JedisExecutor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/generator/CodeGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/handler/GlobalExceptionHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/properties/FebsProperties.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/properties/ShiroProperties.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/runner/CacheInitRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/runner/StartedUpRunner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/service/CacheService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/service/RedisService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/service/impl/CacheServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/service/impl/RedisServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/task/CacheTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/utils/AddressUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/utils/DateUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/utils/EncryptUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/utils/FebsUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/utils/HttpContextUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/utils/HttpUtil$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/utils/HttpUtil$TrustAnyHostnameVerifier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/utils/HttpUtil$TrustAnyTrustManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/utils/HttpUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/utils/IPUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/utils/MD5Util.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/utils/SortUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/utils/SpringContextUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/utils/TreeUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/common/validator/CronValidator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/job/config/ScheduleConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/job/controller/JobController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/job/controller/JobLogController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/job/dao/JobLogMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/job/dao/JobMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/job/domain/Job$ScheduleStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/job/domain/Job.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/job/domain/JobLog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/job/service/JobLogService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/job/service/JobService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/job/service/impl/JobLogServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/job/service/impl/JobServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/job/task/TestTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/job/util/ScheduleJob.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/job/util/ScheduleRunnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/job/util/ScheduleUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/controller/DeptController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/controller/DictController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/controller/LogController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/controller/LoginController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/controller/MenuController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/controller/RedisController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/controller/RoleController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/controller/TestController$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/controller/TestController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/dao/DeptMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/dao/DictMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/dao/LogMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/dao/LoginLogMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/dao/MenuMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/dao/RoleMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/dao/RoleMenuMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/dao/TestMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/dao/UserConfigMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/dao/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/dao/UserRoleMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/domain/Dept.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/domain/Dict.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/domain/LoginLog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/domain/Menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/domain/Role.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/domain/RoleMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/domain/SysLog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/domain/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/domain/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/domain/UserConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/domain/UserRole.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/manager/UserManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/service/DeptService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/service/DictService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/service/LogService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/service/LoginLogService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/service/MenuService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/service/RoleMenuServie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/service/RoleService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/service/TestService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/service/UserConfigService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/service/UserRoleService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/service/impl/DeptServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/service/impl/DictServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/service/impl/LogServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/service/impl/LoginLogServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/service/impl/MenuServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/service/impl/RoleMenuServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/service/impl/RoleServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/service/impl/TestServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/service/impl/UserConfigServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/service/impl/UserRoleServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/system/service/impl/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/web/controller/ArticleController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/web/controller/MovieController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cc/mrbird/febs/web/controller/WeatherController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mapper/job/JobMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/job/JobMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mapper/system/DeptMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/system/DeptMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mapper/system/LoginLogMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/system/LoginLogMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mapper/system/MenuMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/system/MenuMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mapper/system/RoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/system/RoleMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mapper/system/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/system/UserMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mapper/system/UserRoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mapper/system/UserRoleMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mysql/mysql.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mysql/mysql.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spy.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/spy.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/victor/dan/authentication/JWTFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/authentication/JWTFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/DeptServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/DeptServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../frontend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
@@ -305,23 +26,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/DeptServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            <state relative-caret-position="106">
+              <caret line="59" column="24" lean-forward="true" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/FebsApplication.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/utils/SortUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="1920">
+              <caret line="84" column="23" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/domain/entity/Dept.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="768">
+              <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/domain/Tree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -353,6 +89,7 @@
       <find>PersonMapper</find>
       <find>cc.mrbird.febs.job.domain.Job</find>
       <find>ScheduleUtils</find>
+      <find>line.separator</find>
     </findStrings>
     <replaceStrings>
       <replace>com.vitor.dan</replace>
@@ -364,13 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/job/util/ScheduleJob.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/job/util/ScheduleRunnable.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/annotation/IsCron.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/annotation/Limit.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/annotation/Log.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/aspect/LimitAspect.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/aspect/LogAspect.java" />
         <option value="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/validator/CronValidator.java" />
         <option value="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/utils/AddressUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/cc/mrbird/febs/common/utils/DateUtil.java" />
@@ -415,6 +145,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/TestServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/victor/dan/generator/mapper/PersonMapper.java" />
         <option value="$PROJECT_DIR$/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/victor/dan/aspect/LimitAspect.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/victor/dan/authentication/JWTFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/UserManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/RedisServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/victor/dan/domain/Job.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/CacheServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/DeptServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -432,10 +169,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1920" />
-    <option name="y" value="-2" />
-    <option name="width" value="1920" />
-    <option name="height" value="1082" />
+    <option name="x" value="1937" />
+    <option name="width" value="1643" />
+    <option name="height" value="934" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -443,6 +179,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -483,7 +221,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="dan" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="febs_shiro_jwt" type="b2602c69:ProjectViewProjectNode" />
@@ -492,7 +230,62 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="dan" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="aspect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="febs_shiro_jwt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dan" type="462c0819:PsiDirectoryNode" />
+              <item name="authentication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="febs_shiro_jwt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dan" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="febs_shiro_jwt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dan" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="febs_shiro_jwt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dan" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="febs_shiro_jwt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dan" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="febs_shiro_jwt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dan" type="462c0819:PsiDirectoryNode" />
+              <item name="validator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="febs_shiro_jwt" type="b2602c69:ProjectViewProjectNode" />
@@ -513,8 +306,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -608,12 +399,10 @@
     </configuration>
     <list>
       <item itemvalue="Application.MyBatisGenerator" />
-      <item itemvalue="Application.MyBatisGenerator (1)" />
       <item itemvalue="Spring Boot.FebsApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyBatisGenerator (1)" />
         <item itemvalue="Application.MyBatisGenerator" />
       </list>
     </recent_temporary>
@@ -648,7 +437,14 @@
       <workItem from="1565313456485" duration="610000" />
       <workItem from="1573008113564" duration="674000" />
       <workItem from="1573095396472" duration="10214000" />
-      <workItem from="1573182779058" duration="2591000" />
+      <workItem from="1573182779058" duration="3963000" />
+      <workItem from="1573204217944" duration="4806000" />
+      <workItem from="1573293497496" duration="653000" />
+      <workItem from="1573437226941" duration="1256000" />
+      <workItem from="1573439673827" duration="15229000" />
+      <workItem from="1573524081428" duration="19194000" />
+      <workItem from="1573714301619" duration="2369000" />
+      <workItem from="1573727063668" duration="473000" />
     </task>
     <task id="LOCAL-00001" summary="流程图">
       <created>1564567264141</created>
@@ -671,17 +467,24 @@
       <option name="project" value="LOCAL" />
       <updated>1573099434676</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="更新代码的模块构建">
+      <created>1573185372139</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573185372140</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67435000" />
+    <option name="totallyTimeSpent" value="112787000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1920" height="1082" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24169347" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19721329" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -690,11 +493,11 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.47491995" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992785" weight="0.35859126" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.47385272" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992785" visible="true" weight="0.35859126" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Debug" order="5" weight="0.8918919" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.89114195" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32977587" />
@@ -715,7 +518,7 @@
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.329582" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31385282" />
@@ -761,370 +564,345 @@
     <MESSAGE value="更新代码的模块构建" />
     <option name="LAST_COMMIT_MESSAGE" value="更新代码的模块构建" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/victor/dan/utils/ScheduleUtils.java</url>
-          <line>38</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/JobServiceImpl.java</url>
-          <line>49</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/domain/entity/User.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/utils/FebsUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="119" column="20" selection-start-line="119" selection-start-column="20" selection-end-line="119" selection-end-column="20" />
+        <state relative-caret-position="-276">
+          <caret line="60" column="37" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/domain/entity/Role.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/utils/EncryptUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="43" column="43" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="43" />
+        <state relative-caret-position="1256">
+          <caret line="83" column="14" selection-start-line="83" selection-start-column="14" selection-end-line="83" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/ValidationMessages.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/service/CacheService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1768">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/service/RedisService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="25" />
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/utils/ScheduleRunnable.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/runner/CacheInitRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="200">
+          <caret line="38" column="25" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/utils/ScheduleJob.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/task/TestTask.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.7/jackson-databind-2.9.7.jar!/com/fasterxml/jackson/databind/ObjectMapper.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <caret line="117" column="13" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/config/RedisConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/service/RoleService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        <state relative-caret-position="1032">
+          <caret line="48" column="7" lean-forward="true" selection-start-line="48" selection-start-column="7" selection-end-line="48" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/dao/MenuMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/MenuServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-256">
+          <caret line="31" column="22" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+          <folding>
+            <element signature="e#1133#1134#0" expanded="true" />
+            <element signature="e#1201#1202#0" expanded="true" />
+            <element signature="e#1271#1272#0" expanded="true" />
+            <element signature="e#1333#1334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/UserRoleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="23" column="49" lean-forward="true" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/service/UserConfigService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/service/DeptService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-112">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/service/DictService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar!/javax/validation/ConstraintValidator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/CronExpression.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/validator/CronValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/utils/TimeConverter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/authentication/JWTFilter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/domain/Job.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/config/AsyncExecutorPoolConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-tx/5.1.2.RELEASE/spring-tx-5.1.2.RELEASE.jar!/org/springframework/transaction/annotation/ProxyTransactionManagementConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/MyBatisGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="42" column="66" selection-start-line="42" selection-start-column="66" selection-end-line="42" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0.jar!/org/apache/shiro/mgt/RealmSecurityManager.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/task/CacheTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        <state relative-caret-position="560">
+          <caret line="82" column="55" lean-forward="true" selection-start-line="82" selection-start-column="55" selection-end-line="82" selection-end-column="55" />
+          <folding>
+            <element signature="e#1050#1051#0" expanded="true" />
+            <element signature="e#1092#1093#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/annotation/IsCron.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/UserManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/controller/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="54" column="26" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+        <state relative-caret-position="432">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.0.RELEASE/spring-boot-2.1.0.RELEASE.jar!/org/springframework/boot/context/properties/ConfigurationProperties.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/controller/BaseController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/properties/FebsProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spy.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/properties/ShiroProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/authentication/ShiroConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/RoleServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="41" column="14" lean-forward="true" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/system/RoleMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="42" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/dao/DictMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/dao/RoleMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/dao/UserRoleMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/dao/DeptMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/dao/JobLogMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/dao/JobMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/dao/LogMapper.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/Scheduler.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/dao/UserConfigMapper.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/service/LoginLogService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        <state relative-caret-position="168">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.1.1/mybatis-plus-extension-3.1.1.jar!/com/baomidou/mybatisplus/extension/service/impl/ServiceImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="67" column="19" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#2455#2456#0" expanded="true" />
+            <element signature="e#2522#2523#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/dao/RoleMenuMapper.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/domain/entity/SysLog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        <state relative-caret-position="656">
+          <caret line="50" column="31" lean-forward="true" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/dao/MenuMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/dao/LoginLogMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="15" column="6" selection-start-line="15" selection-end-line="15" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/dao/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/dao/TestMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/controller/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2060">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/generator/service/impl/PersonServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/service/JobLogService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/generator/mapper/PersonMapper.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/service/JobService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/TestServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="40" column="32" lean-forward="true" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/logback-spring.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="49" column="30" lean-forward="true" selection-start-line="49" selection-start-column="30" selection-end-line="50" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/CronTrigger.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mysql/mysql.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" lean-forward="true" selection-end-line="944" />
+        <state relative-caret-position="56">
+          <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/JobServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="336">
+          <caret line="38" column="16" lean-forward="true" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/quartz-scheduler/quartz/2.3.0/quartz-2.3.0.jar!/org/quartz/TriggerBuilder.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/LoginLogServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="31" column="15" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/service/LogService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/service/MenuService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/service/RoleMenuServie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/MyBatisGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2118">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/service/UserRoleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/ip2region/ip2region.db">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/CacheServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="123" column="9" selection-start-line="123" selection-start-column="9" selection-end-line="123" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/utils/TreeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1972">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/domain/RegexpConstant.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mysql/mysql.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="24" column="37" lean-forward="true" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/domain/ActiveUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/domain/router/RouterMeta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/domain/FebsConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="43" column="16" lean-forward="true" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/domain/router/VueRouter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/UserManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="90" column="16" lean-forward="true" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/authentication/ShiroConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/utils/ScheduleUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-110">
-          <caret line="17" column="52" lean-forward="true" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
+        <state relative-caret-position="22">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
           <folding>
             <element signature="e#396#397#0" expanded="true" />
             <element signature="e#465#466#0" expanded="true" />
@@ -1132,27 +910,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/domain/Job.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/authentication/JWTFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1000">
-          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        <state relative-caret-position="-888">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/service/impl/DeptServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        <state relative-caret-position="106">
+          <caret line="59" column="24" lean-forward="true" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/FebsApplication.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/utils/SortUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="1920">
+          <caret line="84" column="23" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/domain/entity/Dept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/victor/dan/domain/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
         </state>
       </provider>
     </entry>
